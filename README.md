@@ -129,3 +129,6 @@ If you want to contribute one of those features or other features feel free to r
 [actions-url]: https://github.com/manfredsteyer/angular-crud/actions
 [daviddm-image]: https://david-dm.org/manfredsteyer/angular-crud.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/manfredsteyer/angular-crud
+
+## Crear npm package desde github
+https://dev.to/dalenguyen/create-your-first-github-package-564f
